@@ -1,0 +1,24 @@
+# Flutter / Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+
+# IDE
+.idea/
+.vscode/
+
+# Local database
+*.db
+*.sqlite
+*.sqlite3
+
+# Sensitive files
+.env
+*.jks
+*.keystore
+key.properties
+
+# Generated files
+*.log
